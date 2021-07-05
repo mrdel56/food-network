@@ -1,6 +1,29 @@
 body{
     font-family: 'Rubik', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
 }
 .orange{
     color: orange;
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+}
+.half-width img{
+    width: 90%;
+}
+.top-banner{
+    display: flex;
+    margin-bottom: 50px
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 30px;
+    font-weight: 900;
+    color: white;
+border-radius: 20px;
 }
