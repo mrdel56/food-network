@@ -78,3 +78,20 @@ h1{
     border-radius: 20px;
 
 }
+.yellow{
+    color: yellow;
+}
+.white{
+    color: white;
+}
+#white{
+    color: white;
+}
+footer div{
+    text-align: center;
+    background-color: black;
+} 
+.footer-edit{
+    padding: 50px 0px; 
+    margin-top: 50px;
+}
