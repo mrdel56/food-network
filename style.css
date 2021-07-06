@@ -18,6 +18,8 @@ h1{
 .top-banner{
     display: flex;
     margin-bottom: 50px;
+    background-image: url(images/top-background.png);
+    background-repeat: no-repeat;
 }
 .button{
     background-image: linear-gradient(orange, tomato);
