@@ -13,17 +13,34 @@ h1{
     padding: 5%;
 }
 .half-width img{
-    width: 90%;
+    width: 100%;
 }
 .top-banner{
     display: flex;
-    margin-bottom: 50px
+    margin-bottom: 50px;
 }
 .button{
-    text-decoration: none;
     background-image: linear-gradient(orange, tomato);
-    padding: 10px 30px;
     font-weight: 900;
+    padding: 20px 40px;
     color: white;
-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    margin-top: 30px;
 }
+.self-area{
+    width: 50%;
+    padding: 10%;
+}
+.self-area img{
+    width: 78%;
+
+}
+.about-us{
+    display: flex;
+    background-image: url(images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
