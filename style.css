@@ -42,5 +42,39 @@ h1{
     background-repeat: no-repeat;
     background-size: 100%;
 }
+.our-recipies{
+    text-align: center;
+}
+.ex-recipies{
+    width: 25%;
+    padding: 15px 15px 15px 15px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 15px;
+    
+    margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.ex-recipies img{
+    width: 100%;
+    
+    
+    
+}
+.description-recipies{
+    display: flex; 
+}
+.social-media{
+    width: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#social-media{
+    display: flex; 
+    margin-top: 100px;
+    margin-left: 8%; 
+    margin-right: 8%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
 
-
+}
